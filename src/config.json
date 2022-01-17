@@ -1,0 +1,40 @@
+{
+  "input_dir": "input",
+  "output_dir": "output",
+  "sizes": [
+    {
+      "id": "crop-small",
+      "width": 320,
+      "height": 320,
+      "fit": "cover",
+      "quality": 100
+    },
+    {
+      "id": "small",
+      "width": 320,
+      "fit": "cover",
+      "quality": 100
+    },
+    {
+      "id": "medium",
+      "width": 512,
+      "height": 512,
+      "fit": "cover",
+      "quality": 100
+    },
+    {
+      "id": "large",
+      "width": 768,
+      "height": 768,
+      "fit": "cover",
+      "quality": 100
+    },
+    {
+      "id": "huge",
+      "width": 1024,
+      "height": 1024,
+      "fit": "cover",
+      "quality": 100
+    }
+  ]
+}
